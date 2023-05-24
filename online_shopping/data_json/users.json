@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "first_name": "Steve",
+        "last_name": "Monaco",
+        "email": "person1@gmail.com",
+        "password": "1234",
+        "status": true,
+        "contact_no": "936-849-0813",
+        "address": "1255 Norma Avenue,Houston,Texas,77006"
+    },
+    {
+        "id": 2,
+        "first_name": "Singireddy",
+        "last_name": "Prapul Reddy",
+        "email": "person2@gmail.com",
+        "password": "1234",
+        "status": true,
+        "contact_no": "963-867-3256",
+        "address": "3435 Mayo Street,Lexington,Kentucky,40507"
+    }
+]

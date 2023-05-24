@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "order_id": 230413081634,
+        "order_date": "2023-04-13 08:16:34",
+        "order_amount": 147.68,
+        "payment_mode": "Card",
+        "payment_status": "Paid",
+        "shipping_address": "1217 Roosevelt Street\r\nSan Francisco, \r\nCalifornia(CA), \r\n94118",
+        "order_status": "Delivered"
+    },
+    {
+        "id": 2,
+        "user_id": 2,
+        "order_id": 230413150041,
+        "order_date": "2023-04-13 15:00:41",
+        "order_amount": 419.99,
+        "payment_mode": "Card",
+        "payment_status": "Paid",
+        "shipping_address": "4348 Skinner Hollow Road,\r\nMedford, Oregon(OR), 97501",
+        "order_status": "Delivered"
+    },
+    {
+        "id": 3,
+        "user_id": 2,
+        "order_id": 230501223850,
+        "order_date": "2023-05-01 22:38:50",
+        "order_amount": 135.19,
+        "payment_mode": "Card",
+        "payment_status": "Paid",
+        "shipping_address": "4348 Skinner Hollow Road,\r\nMedford, Oregon(OR), 97501",
+        "order_status": "Delivered"
+    }
+]

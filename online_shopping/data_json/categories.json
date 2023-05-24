@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "category": "Books",
+        "status": true
+    },
+    {
+        "id": 2,
+        "category": "Electronics",
+        "status": true
+    },
+    {
+        "id": 3,
+        "category": "Appliances",
+        "status": true
+    },
+    {
+        "id": 4,
+        "category": "Fashion",
+        "status": true
+    },
+    {
+        "id": 5,
+        "category": "Food",
+        "status": true
+    },
+    {
+        "id": 6,
+        "category": "drink",
+        "status": false
+    }
+]

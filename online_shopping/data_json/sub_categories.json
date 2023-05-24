@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "category_id": 2,
+        "sub_category": "Mobiles",
+        "status": true
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "sub_category": "Society and Culture",
+        "status": true
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "sub_category": "Books 2",
+        "status": true
+    },
+    {
+        "id": 4,
+        "category_id": 2,
+        "sub_category": "Laptops",
+        "status": true
+    },
+    {
+        "id": 5,
+        "category_id": 3,
+        "sub_category": "Television",
+        "status": true
+    },
+    {
+        "id": 6,
+        "category_id": 3,
+        "sub_category": "Washing Machine",
+        "status": true
+    }
+]
